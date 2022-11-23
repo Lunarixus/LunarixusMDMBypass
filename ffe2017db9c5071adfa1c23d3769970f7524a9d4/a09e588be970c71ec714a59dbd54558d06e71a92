@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InstallDate</key>
+	<date>2016-01-09T00:30:03Z</date>
+	<key>InstallOptions</key>
+	<dict>
+		<key>filterFlag</key>
+		<integer>2</integer>
+	</dict>
+	<key>MCProfileIsRemovalStub</key>
+	<true/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>IsHotspot</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (VodafoneWiFi)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.vodafone.uk.wifi</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>FDB306E9-DA25-485F-AE03-3FF818BD6A55</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyPACFallbackAllowed</key>
+			<false/>
+			<key>ProxyType</key>
+			<integer>0</integer>
+			<key>SSID_STR</key>
+			<string>VodafoneWiFi</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>IsHotspot</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (Auto-BTWiFi)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.vodafone.uk.wifi1</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>908968BB-441D-431F-9747-94075DD56A19</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyPACFallbackAllowed</key>
+			<false/>
+			<key>ProxyType</key>
+			<integer>0</integer>
+			<key>SSID_STR</key>
+			<string>Auto-BTWiFi</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>vodafone ES WiFi with Any
+Auto-BTWiFi with Any</string>
+	<key>PayloadDisplayName</key>
+	<string>wpa2_EAPSIM_auto_login_oneSSID</string>
+	<key>PayloadIdentifier</key>
+	<string>com.vodafone.uk</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5E6313A0-26F0-4584-A7FB-3F5FF2D033DD</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>ProductBuildVersion</key>
+	<string>11D257</string>
+	<key>ProductVersion</key>
+	<string>7.1.2</string>
+	<key>ProfileWasEncrypted</key>
+	<false/>
+</dict>
+</plist>

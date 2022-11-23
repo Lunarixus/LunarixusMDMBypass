@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBSectionOrderChronologicalIDs</key>
+	<array>
+		<string>com.apple.springboard.notificationcenter.today</string>
+		<string>com.apple.CalendarWidget</string>
+		<string>com.apple.reminders.todaywidget</string>
+		<string>com.apple.stocksweeapp.bundle</string>
+		<string>com.apple.springboard.notificationcenter.tomorrow</string>
+	</array>
+	<key>BBSectionOrderDefaultIDs</key>
+	<array>
+		<string>com.apple.weathernotifications.bundle</string>
+		<string>com.apple.mobiletimer</string>
+		<string>com.apple.mobilephone</string>
+		<string>com.apple.MobileSMS</string>
+		<string>com.apple.Passbook</string>
+		<string>com.apple.reminders</string>
+		<string>com.apple.mobilecal</string>
+		<string>com.apple.mobileslideshow</string>
+		<string>com.apple.gamecenter</string>
+		<string>com.apple.mobilecal.today</string>
+		<string>com.apple.SocialBulletinBoardProvider</string>
+		<string>com.apple.weather.today</string>
+		<string>com.apple.cmas</string>
+		<string>com.apple.facetime</string>
+		<string>com.apple.mobilemail</string>
+	</array>
+	<key>SectionOrderRule</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectiveWhileUnlocked</key>
+	<false/>
+	<key>overrideStatus</key>
+	<integer>0</integer>
+	<key>overrideStatusLastCalculatedTime</key>
+	<date>0000-12-30T00:00:00Z</date>
+	<key>overrides</key>
+	<array>
+		<data>
+		YnBsaXN0MDDUAQIDBAUIQkNUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
+		aGl2ZXLRBgdUcm9vdIABqwkKExgiKjE1Njo+VSRudWxs1AsMDQ4PEBESXG92
+		ZXJyaWRlTW9kZV8QEmVmZmVjdGl2ZUludGVydmFsc1YkY2xhc3Ncb3ZlcnJp
+		ZGVUeXBlEACAAoAKEAHSDRQVFlpOUy5vYmplY3RzgAmhF4AD1RkNGhscHR4f
+		ICFdZW5kQ29tcG9uZW50c1hjYWxlbmRhcl5yZXBlYXRJbnRlcnZhbF8QD3N0
+		YXJ0Q29tcG9uZW50c4AGgAiABxAQgATVIyQNJSYPJygpD1lOUy5taW51dGVX
+		TlMueWVhcldOUy5ob3VyXE5TLmxlYXBNb250aBEH3IAFEBbSKywtMFgkY2xh
+		c3Nlc1okY2xhc3NuYW1loi4vXxAQTlNEYXRlQ29tcG9uZW50c1hOU09iamVj
+		dF8QEE5TRGF0ZUNvbXBvbmVudHPVIyQNJSYPMig0DxEH3IAFEAdZZ3JlZ29y
+		aWFu0issNzmiOC9fECNCQkJlaGF2aW9yT3ZlcnJpZGVFZmZlY3RpdmVJbnRl
+		cnZhbF8QI0JCQmVoYXZpb3JPdmVycmlkZUVmZmVjdGl2ZUludGVydmFs0iss
+		Oz2iPC9XTlNBcnJheVdOU0FycmF50issP0GiQC9fEBJCQkJlaGF2aW9yT3Zl
+		cnJpZGVfEBJCQkJlaGF2aW9yT3ZlcnJpZGUSAAGGoF8QD05TS2V5ZWRBcmNo
+		aXZlcgAIABEAFgAfACgAMgA1ADoAPABIAE4AVwBkAHkAgACNAI8AkQCTAJUA
+		mgClAKcAqQCrALYAxADNANwA7gDwAPIA9AD2APgBAwENARUBHQEqAS0BLwEx
+		ATYBPwFKAU0BYAFpAXwBhwGKAYwBjgGYAZ0BoAHGAewB8QH0AfwCBAIJAgwC
+		IQI2AjsAAAAAAAACAQAAAAAAAABEAAAAAAAAAAAAAAAAAAACTQ==
+		</data>
+	</array>
+	<key>privilegedSenderTypes</key>
+	<integer>9</integer>
+</dict>
+</plist>
