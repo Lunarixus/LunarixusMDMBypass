@@ -12,8 +12,8 @@ activate.dll activate
 
 echo Device should now be showing setup.app for final steps...
 echo ------------------------------
-echo Twitter: @LunarixusOld
-echo Telegram: @TheOGLunarixus
+echo Twitter: @TheLunarixus
+echo Telegram: @Lunarixus
 echo GitHub: Lunarixus
 echo ------------------------------
 pause

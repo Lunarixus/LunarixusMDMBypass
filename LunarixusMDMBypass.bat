@@ -73,8 +73,8 @@ echo Device is rebooting, once it has rebooted MDM should be bypassed.
 finish.dll restart > nul
 
 echo ------------------------------
-echo Twitter: @LunarixusOld
-echo Telegram: @TheOGLunarixus
+echo Twitter: @TheLunarixus
+echo Telegram: @Lunarixus
 echo GitHub: Lunarixus
 echo ------------------------------
 
